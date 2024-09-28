@@ -4,22 +4,22 @@
 Breve descripción del proyecto, su propósito y lo que busca resolver.
 
 ## Tecnologías Utilizadas
-- **Java**: Versión X.X
-- **Spring Boot**: Versión X.X.X
-- **Maven/Gradle**: (Dependiendo del sistema de construcción que uses)
-- **Base de Datos**: (Ejemplo: MySQL, PostgreSQL, SQL Server, H2, etc.)
+- **Java**: Versión 17
+- **Spring Boot**: Versión 3.3.4
+- **Maven/Gradle**: Maven
+- **Base de Datos**: MySQl
 - **Herramientas**: 
   - Spring Data JPA
   - Spring Security (si lo usas)
   - Spring Web
-  - Otros (Ej: Lombok, Swagger, etc.)
+  
 
 ## Instalación
 
 ### Requisitos Previos
-1. **Java Development Kit (JDK)**  versión X.X o superior.
-2. **Maven** o **Gradle** (dependiendo de tu build tool)
-3. **Base de datos** (si es necesario, especifica la configuración)
+1. **Java Development Kit (JDK)**  versión 11 o superior.
+2. **Maven** o **Gradle** Maven
+3. **Base de datos** MySQL
 
 ### Clonar el Repositorio
 ```bash
